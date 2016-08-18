@@ -1,0 +1,3153 @@
+
+*************************************************
+Creating Stimuli
+*************************************************
+
+<text blackscreen>  
+/ numitems = 1
+/ items = ("                ")
+/ font = ("Arial Black", -48, 400, 0, 34)
+/ txbgcolor = (0,0,0)
+/ color = (255, 255, 255)
+</text>
+
+<text positive>
+/ numitems = 6
+/ items = pos
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item pos>
+/ 1 = "Wonderful"
+/ 2 = "Beautiful"
+/ 3 = "Glorious"
+/ 4 = "Marvelous"
+/ 5 = "Success"
+</item>
+
+<text negative>  
+/ numitems = 6
+/ items = neg
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item neg>
+/ 1 = "Agony"
+/ 2 = "Evil"
+/ 3 = "Failure"
+/ 4 = "Sadness"
+/ 5 = "Unpleasant"
+</item>
+
+<text BAYRAM1>  
+/ numitems = 1
+/ items = B1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<text BAYRAM9>  
+/ numitems = 1
+/ items = B1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+/ erase = false
+/ position = (50%,50%)
+</text>
+
+<item B1>
+/ 1 = "BAYRAM"
+</item>
+
+<text BAYRAM2>  
+/ numitems = 1
+/ items = B2
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B2>
+/ 1 = "Bayram"
+</item>
+
+<text BAYRAM3>  
+/ numitems = 1
+/ items = B3
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B3>
+/ 1 = "BAYRAM"
+</item>
+
+<text BAYRAM4>  
+/ numitems = 1
+/ items = B4
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B4>
+/ 1 = "Bayram"
+</item>
+
+<text BAYRAM5>  
+/ numitems = 1
+/ items = B5
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B5>
+/ 1 = "BAYRAM"
+</item>
+
+<text BAYRAM6>  
+/ numitems = 1
+/ items = B6
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B6>
+/ 1 = "Bayram"
+</item>
+
+<text BAYRAM7>  
+/ numitems = 1
+/ items = B7
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B7>
+/ 1 = "BAYRAM"
+</item>
+
+<text BAYRAM8>  
+/ numitems = 1
+/ items = B8
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item B8>
+/ 1 = "Bayram"
+</item>
+
+<text UDIBNON1>  
+/ numitems = 1
+/ items = U1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<text UDIBNON9>  
+/ numitems = 1
+/ items = U1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+/ erase = false
+</text>
+
+<item U1>
+/ 1 = "UDIBNON"
+</item>
+
+<text UDIBNON2>  
+/ numitems = 1
+/ items = U2
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U2>
+/ 1 = "Udibnon"
+</item>
+
+<text UDIBNON3>  
+/ numitems = 1
+/ items = U3
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U3>
+/ 1 = "UDIBNON"
+</item>
+
+<text UDIBNON4>  
+/ numitems = 1
+/ items = U4
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U4>
+/ 1 = "Udibnon"
+</item>
+
+<text UDIBNON5>  
+/ numitems = 1
+/ items = U5
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U5>
+/ 1 = "UDIBNON"
+</item>
+
+<text UDIBNON6>  
+/ numitems = 1
+/ items = U6
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U6>
+/ 1 = "Udibnon"
+</item>
+
+<text UDIBNON7>  
+/ numitems = 1
+/ items = U7
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U7>
+/ 1 = "UDIBNON"
+</item>
+
+<text UDIBNON8>  
+/ numitems = 1
+/ items = U8
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item U8>
+/ 1 = "Udibnon"
+</item>
+
+<text ENANWAL1>  
+/ numitems = 1
+/ items = E1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<text ENANWAL9>  
+/ numitems = 1
+/ items = ("ENANWAL")
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+/ erase = false
+</text>
+
+<item E1>
+/ 1 = "ENANWAL"
+</item>
+
+<text ENANWAL2>  
+/ numitems = 1
+/ items = E2
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E2>
+/ 1 = "Enanwal"
+</item>
+
+<text ENANWAL3>  
+/ numitems = 1
+/ items = E3
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E3>
+/ 1 = "ENANWAL"
+</item>
+
+<text ENANWAL4>  
+/ numitems = 1
+/ items = E4
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E4>
+/ 1 = "Enanwal"
+</item>
+
+<text ENANWAL5>  
+/ numitems = 1
+/ items = E5
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E5>
+/ 1 = "ENANWAL"
+</item>
+
+<text ENANWAL6>  
+/ numitems = 1
+/ items = E6
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E6>
+/ 1 = "Enanwal"
+</item>
+
+<text ENANWAL7>  
+/ numitems = 1
+/ items = E7
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E7>
+/ 1 = "ENANWAL"
+</item>
+
+<text ENANWAL8>  
+/ numitems = 1
+/ items = E8
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item E8>
+/ 1 = "Enanwal"
+</item>
+
+<text LOKANTA1>  
+/ numitems = 1
+/ items = L1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<text LOKANTA9>  
+/ numitems = 1
+/ items = L1
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+/ erase = false
+</text>
+
+<item L1>
+/ 1 = "LOKANTA"
+</item>
+
+<text LOKANTA2>  
+/ numitems = 1
+/ items = L2
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L2>
+/ 1 = "Lokanta"
+</item>
+
+<text LOKANTA3>  
+/ numitems = 1
+/ items = L3
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L3>
+/ 1 = "LOKANTA"
+</item>
+
+<text LOKANTA4>  
+/ numitems = 1
+/ items = L4
+/ fontstyle = ("Arial Black", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L4>
+/ 1 = "Lokanta"
+</item>
+
+<text LOKANTA5>  
+/ numitems = 1
+/ items = L5
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L5>
+/ 1 = "LOKANTA"
+</item>
+
+<text LOKANTA6>  
+/ numitems = 1
+/ items = L6
+/ fontstyle = ("Fixedsys", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L6>
+/ 1 = "Lokanta"
+</item>
+
+<text LOKANTA7>  
+/ numitems = 1
+/ items = L7
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L7>
+/ 1 = "LOKANTA"
+</item>
+
+<text LOKANTA8>  
+/ numitems = 1
+/ items = L8
+/ fontstyle = ("Fixedsys", 16pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item L8>
+/ 1 = "Lokanta"
+</item>
+
+<text blank>  
+/ numitems = 1
+/ items = ("                                          ")
+/ fontstyle = ("Fixedsys", 32pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<text errormessage>  
+/ numitems = 1
+/ items = ("        X        ")
+/ font = ("Arial Black", -48, 400, 0, 34)
+/ txbgcolor = (0,0,0)
+/ color = (255, 0, 0)
+</text>
+
+<text reminderENAright>  
+/ numitems = 1
+/ items = ("ENANWAL")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 16)
+</text>
+
+<text reminderUDIright>  
+/ numitems = 1
+/ items = ("UDIBNON")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 16)
+</text>
+
+<text reminderLOKright>  
+/ numitems = 1
+/ items = ("LOKANTA")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 16)
+</text>
+
+<text reminderBAYright>  
+/ numitems = 1
+/ items = ("BAYRAM")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 16)
+</text>
+
+<text reminderUDIleft>  
+/ numitems = 1
+/ items = ("UDIBNON")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 16)
+</text>
+
+<text reminderENAleft>  
+/ numitems = 1
+/ items = ("ENANWAL")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 16)
+</text>
+
+<text reminderLOKleft>  
+/ numitems = 1
+/ items = ("LOKANTA")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 16)
+</text>
+
+<text reminderBAYleft>  
+/ numitems = 1
+/ items = ("BAYRAM")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 16)
+</text>
+
+<text reminderPOSright>  
+/ numitems = 1
+/ items = ("POSITIVE")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 7)
+</text>
+
+<text reminderNEGleft>  
+/ numitems = 1
+/ items = ("NEGATIVE")
+/ font = ("Courier", -40, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 7)
+</text>
+
+<picture manikinabove>  
+/ numitems = 1
+/ items = ("up.bmp")
+/ position = (50%, 33%)
+/ size = (20%,20%)
+/ erase=false
+</picture>
+
+<picture manikinbelow>  
+/ numitems = 1
+/ items = ("up.bmp")
+/ position = (50%, 67%)
+/ size = (20%,20%)
+/ erase=false
+</picture>
+
+<video manikinbelow_up>
+/ items = ("up.gif")
+/ position = (50%, 67%)
+/ size = (20%,20%)
+</video>
+
+<video manikinabove_up>
+/ items = ("up.gif")
+/ position = (50%, 33%)
+/ size = (20%,20%)
+</video>
+
+<video manikinbelow_down>
+/ items = ("down.gif")
+/ position = (50%, 67%)
+/ size = (20%,20%)
+</video>
+
+<video manikinabove_down>
+/ items = ("down.gif")
+/ position = (50%, 33%)
+/ size = (20%,20%)
+</video>
+
+<text UP>  
+/ numitems = 1
+/ items = UP
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item UP>
+/ 1 = "UP"
+</item>
+
+<text DOWN>  
+/ numitems = 1
+/ items = DOWN
+/ fontstyle = ("Arial Black", 18pt, false)
+/ txbgcolor = (0,0,0)
+/ txcolor = (255,255,255)
+</text>
+
+<item DOWN>
+/ 1 = "DOWN"
+</item>
+
+*************************************************
+Instructions
+*************************************************
+
+<page intro> 
+^^Welcome !^^
+In this experiment you will perform a number of different tasks. ^^
+Each of these tasks will involve four different words with no meaning:^^
+BAYRAM, UDIBNON, ENANWAL and LOKANTA.
+</page>
+
+<page AAIntro2>
+Please avoid distractions while performing this task and always try to respond as quickly as possible !
+</page>
+
+<page AAIntro_BE>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word BAYRAM and ENANWAL and ^^
+you should move the manikin DOWNWARD when you see the word UDIBNON and LOKANTA.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page AAIntro_BL>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word BAYRAM and LOKANTA and ^^
+you should move the manikin DOWNWARD when you see the word UDIBNON and ENANWAL.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page AAIntro_BU>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word BAYRAM and UDIBNON and ^^
+you should move the manikin DOWNWARD when you see the word LOKANTA and ENANWAL.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page AAIntro_UL>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word LOKANTA and UDIBNON and ^^
+you should move the manikin DOWNWARD when you see the word BAYRAM and ENANWAL.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page AAIntro_UE>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word ENANWAL and UDIBNON and ^^
+you should move the manikin DOWNWARD when you see the word BAYRAM and LOKANTA.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page AAIntro_LE>
+First you will perform a task in which you will need to move a manikin (a stick figure) that appears on screen. ^^
+Please imagine being the manikin that is presented on screen.^^^
+On each trial you will see the manikin appear on screen as well as one of the four words.^^
+Your task is to move the manikin by pressing the up and down keys of the keyboard.^^^
+Specifically,^^
+you should move the manikin UPWARD when you see the word ENANWAL and LOKANTA and ^^
+you should move the manikin DOWNWARD when you see the word BAYRAM and UDIBNON.^^^
+Please make sure to remember which action belongs to which word. ^^
+You will need this information to complete the task successfully. ^^^
+Note that on some trials you will see the word UP or DOWN on the screen.^^
+On these trials you should respond accordingly (e.g., by pressing the up key when you see the word UP).^^^^
+Please press the spacebar only when you have memorized the instructions and are ready to begin this task.^^
+Please take your time to memorize the instructions first.
+</page>
+
+<page pauze>
+^^^^You are halfway through the task. ^^
+^^Thank you for performing this task ! ^^
+^^Please avoid distractions and stay focused for the final part of the task. ^^
+</page>
+
+<page IATIntro>
+Thank you for performing this task ! ^^^^
+In the next task, you will categorize words into groups as fast as you can. ^^^
+This part of the study will take about 5 minutes. 
+</page>
+
+<page IATIntro2>
+Thank you for performing this task ! ^^^^
+In the next task, you will again categorize words into groups as fast as you can. ^^^
+This time you will categorize different words.
+</page>
+
+<page IATBlock2> 
+The two categories that you are to distinguish now are:^^
+POSITIVE and NEGATIVE words.^^
+When the word belongs to the category NEGATIVE, press the F key. ^^
+When the word belongs to the category POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock4_>
+Now sort the same four categories again. ^^^
+Remember to go as fast as you can while making as few mistakes as possible.
+</page>
+
+<page IATBlock7_>
+Now sort the same four categories again. ^^^
+Remember to go as fast as you can while making as few mistakes as possible.
+</page>
+
+<page IATBlock1_UE>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words UDIBNON and ENANWAL.^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_UE>
+You will now distinguish four categories of words: ^^^
+the words UDIBNON and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_UE>
+Now sort words again as belonging to the categories UDIBNON and ENANWAL. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_UE>
+You will now again distinguish four categories of words: ^^^
+the words UDIBNON and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_UB>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words UDIBNON and BAYRAM.^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_UB>
+You will now distinguish four categories of words: ^^^
+the words UDIBNON and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_UB>
+Now sort words again as belonging to the categories UDIBNON and BAYRAM. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_UB>
+You will now again distinguish four categories of words: ^^^
+the words UDIBNON and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_UL>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words UDIBNON and LOKANTA.^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_UL>
+You will now distinguish four categories of words: ^^^
+the words UDIBNON and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_UL>
+Now sort words again as belonging to the categories UDIBNON and LOKANTA. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_UL>
+You will now again distinguish four categories of words: ^^^
+the words UDIBNON and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_LB>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words LOKANTA and BAYRAM.^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_LB>
+You will now distinguish four categories of words: ^^^
+the words LOKANTA and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_LB>
+Now sort words again as belonging to the categories LOKANTA and BAYRAM. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_LB>
+You will now again distinguish four categories of words: ^^^
+the words LOKANTA and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_LE>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words LOKANTA and ENANWAL.^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_LE>
+You will now distinguish four categories of words: ^^^
+the words LOKANTA and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_LE>
+Now sort words again as belonging to the categories LOKANTA and ENANWAL. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_LE>
+You will now again distinguish four categories of words: ^^^
+the words LOKANTA and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_LU>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words LOKANTA and UDIBNON.^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_LU>
+You will now distinguish four categories of words: ^^^
+the words LOKANTA and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_LU>
+Now sort words again as belonging to the categories LOKANTA and UDIBNON. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_LU>
+You will now again distinguish four categories of words: ^^^
+the words LOKANTA and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_EU>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words ENANWAL and UDIBNON.^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_EU>
+You will now distinguish four categories of words: ^^^
+the words ENANWAL and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_EU>
+Now sort words again as belonging to the categories ENANWAL and UDIBNON. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_EU>
+You will now again distinguish four categories of words: ^^^
+the words ENANWAL and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_EL>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words ENANWAL and LOKANTA.^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_EL>
+You will now distinguish four categories of words: ^^^
+the words ENANWAL and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_EL>
+Now sort words again as belonging to the categories ENANWAL and LOKANTA. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_EL>
+You will now again distinguish four categories of words: ^^^
+the words ENANWAL and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_EB>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words ENANWAL and BAYRAM.^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_EB>
+You will now distinguish four categories of words: ^^^
+the words ENANWAL and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_EB>
+Now sort words again as belonging to the categories ENANWAL and BAYRAM. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_EB>
+You will now again distinguish four categories of words: ^^^
+the words ENANWAL and BAYRAM. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_BL>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words BAYRAM and LOKANTA.^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category LOKANTA, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_BL>
+You will now distinguish four categories of words: ^^^
+the words BAYRAM and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category LOKANTA or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_BL>
+Now sort words again as belonging to the categories BAYRAM and LOKANTA. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category LOKANTA, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_BL>
+You will now again distinguish four categories of words: ^^^
+the words BAYRAM and LOKANTA. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category LOKANTA or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_BU>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words BAYRAM and UDIBNON.^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category UDIBNON, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_BU>
+You will now distinguish four categories of words: ^^^
+the words BAYRAM and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category UDIBNON or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_BU>
+Now sort words again as belonging to the categories BAYRAM and UDIBNON. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category UDIBNON, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_BU>
+You will now again distinguish four categories of words: ^^^
+the words BAYRAM and UDIBNON. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category UDIBNON or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock1_BE>
+On each trial, a word will be displayed, and you must assign it to one of two categories. ^^^^
+You should respond AS RAPIDLY AS POSSIBLE in categorizing each word, but don't respond so fast that you make ^^
+too many errors (occasional errors are okay.)^^^^
+The two categories that you are to distinguish in the first part of this task are:^^
+the words BAYRAM and ENANWAL.^^^
+When the word belongs to the category BAYRAM, press the F key. ^^
+When the word belongs to the category ENANWAL, press the J key. ^^
+Labels at the top will tell you which items go with each key.^^^^
+Always keep your fingers on the F and J keys to enable rapid response.^^
+Avoid distractions and stay focused.^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock3_BE>
+You will now distinguish four categories of words: ^^^
+the words BAYRAM and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category BAYRAM or NEGATIVE, press the F key. ^^
+When the word belongs to the category ENANWAL or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock5_BE>
+Now sort words again as belonging to the categories BAYRAM and ENANWAL. ^^^
+However, you now need to assign them to a different key. ^^^
+When the word belongs to the category ENANWAL, press the F key. ^^
+When the word belongs to the category BAYRAM, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page IATBlock6_BE>
+You will now again distinguish four categories of words: ^^^
+the words BAYRAM and ENANWAL. ^^
+or^^
+POSITIVE and NEGATIVE words.^^^^
+When the word belongs to the category ENANWAL or NEGATIVE, press the F key. ^^
+When the word belongs to the category BAYRAM or POSITIVE, press the J key. ^^^
+Please respond as quickly as possible.
+</page>
+
+<page explicitINTRO>
+Thank you very much for completing that task!^^^^
+Next, please answer a couple of questions about the nonwords. 
+</page>
+
+<page questionsINTRO>
+Finally, please answer these last simple questions.^^^^
+For these questions, we would like you to think back to the task with the manikin that you did at the beginning of the experiment. ^^^^
+It is crucial that you try to answer these questions carefully and correctly !
+</page>
+
+<page end>  
+Thank you for performing this experiment ! 
+</page>
+
+<instruct>  
+/ nextlabel = "Press the spacebar to continue"
+/ nextkey = (" ")
+/ font = ("Arial", -17, 400, 0, 34)
+/ txcolor = (255,255,255)
+/ screencolor = (0,0,0)
+/ windowsize = (80%, 80%) 
+</instruct>
+
+*************************************************
+Trials AA
+*************************************************
+
+<trial up>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [500=UP]
+/ beginresponsetime = 500
+/ posttrialpause = 100
+/ responsemode = correct
+</trial>
+
+<trial down>  
+/ pretrialpause = 100 
+/ validkeys = (208)
+/ correctresponse = (208)
+/ stimulustimes = [500=DOWN]
+/ posttrialpause = 100
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_avoid_B>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinabove;500=BAYRAM9]
+/ branch = [trial.up_avoid_B1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_avoid_B1>  
+/ stimulustimes = [0=manikinabove_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_approach_B>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinbelow;500=BAYRAM9]
+/ branch = [trial.up_approach_B1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_approach_B1>  
+/ stimulustimes = [0=manikinbelow_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_approach_B>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinabove;500=BAYRAM9]
+/ branch = [trial.down_approach_B1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_approach_B1>  
+/ stimulustimes = [0=manikinabove_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_avoid_B>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinbelow;500=BAYRAM9]
+/ branch = [trial.down_avoid_B1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_avoid_B1>  
+/ stimulustimes = [0=manikinbelow_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_avoid_E>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinabove;500=ENANWAL9]
+/ branch = [trial.up_avoid_E1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_avoid_E1>  
+/ stimulustimes = [0=manikinabove_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_approach_E>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinbelow;500=ENANWAL9]
+/ branch = [trial.up_approach_E1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_approach_E1>  
+/ stimulustimes = [0=manikinbelow_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_approach_E>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinabove;500=ENANWAL9]
+/ branch = [trial.down_approach_E1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_approach_E1>  
+/ stimulustimes = [0=manikinabove_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_avoid_E>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinbelow;500=ENANWAL9]
+/ branch = [trial.down_avoid_E1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_avoid_E1>  
+/ stimulustimes = [0=manikinbelow_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_avoid_U>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinabove;500=UDIBNON9]
+/ branch = [trial.up_avoid_U1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_avoid_U1>  
+/ stimulustimes = [0=manikinabove_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_approach_U>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinbelow;500=UDIBNON9]
+/ branch = [trial.up_approach_U1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_approach_U1>  
+/ stimulustimes = [0=manikinbelow_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_approach_U>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinabove;500=UDIBNON9]
+/ branch = [trial.down_approach_U1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_approach_U1>  
+/ stimulustimes = [0=manikinabove_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_avoid_U>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinbelow;500=UDIBNON9]
+/ branch = [trial.down_avoid_U1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_avoid_U1>  
+/ stimulustimes = [0=manikinbelow_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_avoid_L>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinabove;500=LOKANTA9]
+/ branch = [trial.up_avoid_L1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_avoid_L1>  
+/ stimulustimes = [0=manikinabove_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial up_approach_L>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (200)
+/ stimulustimes = [0=manikinbelow;500=LOKANTA9]
+/ branch = [trial.up_approach_L1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial up_approach_L1>  
+/ stimulustimes = [0=manikinbelow_up;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_approach_L>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinabove;500=LOKANTA9]
+/ branch = [trial.down_approach_L1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_approach_L1>  
+/ stimulustimes = [0=manikinabove_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+<trial down_avoid_L>  
+/ pretrialpause = 100 
+/ validkeys = (200,208)
+/ correctresponse = (208)
+/ stimulustimes = [0=manikinbelow;500=LOKANTA9]
+/ branch = [trial.down_avoid_L1]
+/ beginresponsetime = 500
+/ responsemode = correct
+</trial>
+
+<trial down_avoid_L1>  
+/ stimulustimes = [0=manikinbelow_down;1210=blank]
+/ posttrialpause = 100
+/ responseinterrupt = trial
+/ recorddata = false
+/ timeout = 1000
+</trial>
+
+*************************************************
+Trials IAT
+*************************************************
+<trial wait>  
+/ validkeys = ("8")
+/ correctresponse = ("8")
+/ frames = [1=blackscreen]
+/ timeout = 3000
+/ errormessage = false
+</trial>
+
+<trial positive> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=positive]
+/ posttrialpause = 200
+</trial>
+
+<trial negative> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=negative]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON1]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON2]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON3]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON4]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON5]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON6]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON7]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIleft8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=UDIBNON8]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON1]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON2]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON3]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON4]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON5]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON6]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON7]
+/ posttrialpause = 200
+</trial>
+
+<trial UDIright8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=UDIBNON8]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM1]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM2]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM3]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM4]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM5]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM6]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM7]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYright8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=BAYRAM8]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM1]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM2]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM3]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM4]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM5]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM6]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM7]
+/ posttrialpause = 200
+</trial>
+
+<trial BAYleft8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=BAYRAM8]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA1]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA2]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA3]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA4]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA5]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA6]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA7]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKleft8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=LOKANTA8]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA1]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA2]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA3]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA4]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA5]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA6]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA7]
+/ posttrialpause = 200
+</trial>
+
+<trial LOKright8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=LOKANTA8]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL1]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL2]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL3]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL4]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL5]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL6]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL7]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAleft8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("f")
+/ frames = [1=ENANWAL8]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright1> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL1]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright2> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL2]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright3> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL3]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright4> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL4]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright5> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL5]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright6> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL6]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright7> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL7]
+/ posttrialpause = 200
+</trial>
+
+<trial ENAright8> 
+/ pretrialpause = 200 
+/ validkeys = ("f", "j")
+/ correctresponse = ("j")
+/ frames = [1=ENANWAL8]
+/ posttrialpause = 200
+</trial>
+
+*************************************************
+Blocks
+*************************************************
+
+<block AAIntroBE>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_BE)
+/postinstructions=(AAIntro2)
+</block>
+
+<block AAIntroBU>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_BU)
+</block>
+
+<block AAIntroBL>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_BL)
+</block>
+
+<block AAIntroUE>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_UE)
+</block>
+
+<block AAIntroUL>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_UL)
+</block>
+
+<block AAIntroLE>
+/screencolor = (0,0,0)
+/preinstructions = (AAIntro_LE)
+</block>
+
+<block AA_1>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_U,down_approach_U,up_avoid_E,up_avoid_E,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_2>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_U,down_approach_U,up_avoid_L,up_avoid_L,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_3>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_E,down_approach_E,up_avoid_U,up_avoid_U,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_4>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_E,down_approach_E,up_avoid_L,up_avoid_L,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_5>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_L,down_approach_L,up_avoid_U,up_avoid_U,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_6>
+/ trials = [1-100 = noreplace(up, down, up_approach_B,up_approach_B,down_approach_L,down_approach_L,up_avoid_E,up_avoid_E,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_7>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_B,down_approach_B,up_avoid_E,up_avoid_E,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_8>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_B,down_approach_B,up_avoid_L,up_avoid_L,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_9>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_E,down_approach_E,up_avoid_B,up_avoid_B,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_10>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_E,down_approach_E,up_avoid_L,up_avoid_L,down_avoid_B,down_avoid_B)]
+</block>
+
+<block AA_11>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_L,down_approach_L,up_avoid_B,up_avoid_B,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_12>
+/ trials = [1-100 = noreplace(up, down, up_approach_U,up_approach_U,down_approach_L,down_approach_L,up_avoid_E,up_avoid_E,down_avoid_B,down_avoid_B)]
+</block>
+
+<block AA_13>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_B,down_approach_B,up_avoid_U,up_avoid_U,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_14>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_B,down_approach_B,up_avoid_L,up_avoid_L,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_15>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_U,down_approach_U,up_avoid_B,up_avoid_B,down_avoid_L,down_avoid_L)]
+</block>
+
+<block AA_16>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_U,down_approach_U,up_avoid_L,up_avoid_L,down_avoid_B,down_avoid_B)]
+</block>
+
+<block AA_17>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_L,down_approach_L,up_avoid_B,up_avoid_B,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_18>
+/ trials = [1-100 = noreplace(up, down, up_approach_E,up_approach_E,down_approach_L,down_approach_L,up_avoid_U,up_avoid_U,down_avoid_B,down_avoid_B)]
+</block>
+
+<block AA_19>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_B,down_approach_B,up_avoid_U,up_avoid_U,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_20>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_B,down_approach_B,up_avoid_E,up_avoid_E,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_21>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_U,down_approach_U,up_avoid_B,up_avoid_B,down_avoid_E,down_avoid_E)]
+</block>
+
+<block AA_22>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_U,down_approach_U,up_avoid_E,up_avoid_E,down_avoid_B,down_avoid_B)]
+</block>
+
+<block AA_23>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_E,down_approach_E,up_avoid_B,up_avoid_B,down_avoid_U,down_avoid_U)]
+</block>
+
+<block AA_24>
+/ trials = [1-100 = noreplace(up, down, up_approach_L,up_approach_L,down_approach_E,down_approach_E,up_avoid_U,up_avoid_U,down_avoid_B,down_avoid_B)]
+</block>
+
+<block pauze>
+/screencolor = (0,0,0)
+/preinstructions = (pauze)
+</block>
+
+<block IATIntro>
+/screencolor = (0,0,0)
+/preinstructions = (IATIntro)
+</block>
+
+<block IATIntro2>
+/screencolor = (0,0,0)
+/preinstructions = (IATIntro2)
+</block>
+
+<block 2IAT>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(positive, negative)]
+/ bgstim = (reminderNEGleft, reminderPOSright)
+/ preinstructions = (IATBlock2)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIleft1, ENAright1,UDIleft2, ENAright2,UDIleft3, ENAright3,UDIleft4, ENAright4,UDIleft5, ENAright5,UDIleft6, ENAright6,UDIleft7, ENAright7,UDIleft8, ENAright8)]
+/ bgstim = (reminderUDIleft, reminderENAright)
+/ preinstructions = (IATBlock1_UE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, ENAright1,UDIleft2, ENAright2,UDIleft3, ENAright3,UDIleft4, ENAright4,UDIleft5, ENAright5,UDIleft6, ENAright6,UDIleft7, ENAright7,UDIleft8, ENAright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock3_UE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, ENAright1,UDIleft2, ENAright2,UDIleft3, ENAright3,UDIleft4, ENAright4,UDIleft5, ENAright5,UDIleft6, ENAright6,UDIleft7, ENAright7,UDIleft8, ENAright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIright1, ENAleft1,UDIright2, ENAleft2,UDIright3, ENAleft3,UDIright4, ENAleft4,UDIright5, ENAleft5,UDIright6, ENAleft6,UDIright7, ENAleft7,UDIright8, ENAleft8)]
+/ bgstim = (reminderUDIright, reminderENAleft)
+/ preinstructions = (IATBlock5_UE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, ENAleft1,UDIright2, ENAleft2,UDIright3, ENAleft3,UDIright4, ENAleft4,UDIright5, ENAleft5,UDIright6, ENAleft6,UDIright7, ENAleft7,UDIright8, ENAleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock6_UE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_UE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, ENAleft1,UDIright2, ENAleft2,UDIright3, ENAleft3,UDIright4, ENAleft4,UDIright5, ENAleft5,UDIright6, ENAleft6,UDIright7, ENAleft7,UDIright8, ENAleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIleft1, LOKright1,UDIleft2, LOKright2,UDIleft3, LOKright3,UDIleft4, LOKright4,UDIleft5, LOKright5,UDIleft6, LOKright6,UDIleft7, LOKright7,UDIleft8, LOKright8)]
+/ bgstim = (reminderUDIleft, reminderLOKright)
+/ preinstructions = (IATBlock1_UL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, ENAright1,UDIleft2, LOKright2,UDIleft3, LOKright3,UDIleft4, LOKright4,UDIleft5, LOKright5,UDIleft6, LOKright6,UDIleft7, LOKright7,UDIleft8, LOKright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock3_UL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, LOKright1,UDIleft2, LOKright2,UDIleft3, LOKright3,UDIleft4, LOKright4,UDIleft5, LOKright5,UDIleft6, LOKright6,UDIleft7, LOKright7,UDIleft8, LOKright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIright1, LOKleft1,UDIright2, LOKleft2,UDIright3, LOKleft3,UDIright4, LOKleft4,UDIright5, LOKleft5,UDIright6, LOKleft6,UDIright7, LOKleft7,UDIright8, LOKleft8)]
+/ bgstim = (reminderUDIright, reminderLOKleft)
+/ preinstructions = (IATBlock5_UL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, LOKleft1,UDIright2, LOKleft2,UDIright3, LOKleft3,UDIright4, LOKleft4,UDIright5, LOKleft5,UDIright6, LOKleft6,UDIright7, LOKleft7,UDIright8, LOKleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock6_UL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_UL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, LOKleft1,UDIright2, LOKleft2,UDIright3, LOKleft3,UDIright4, LOKleft4,UDIright5, LOKleft5,UDIright6, LOKleft6,UDIright7, LOKleft7,UDIright8, LOKleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIleft1, BAYright1,UDIleft2, BAYright2,UDIleft3, BAYright3,UDIleft4, BAYright4,UDIleft5, BAYright5,UDIleft6, BAYright6,UDIleft7, BAYright7,UDIleft8, BAYright8)]
+/ bgstim = (reminderUDIleft, reminderBAYright)
+/ preinstructions = (IATBlock1_UB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, BAYright1,UDIleft2, BAYright2,UDIleft3, BAYright3,UDIleft4, BAYright4,UDIleft5, BAYright5,UDIleft6, BAYright6,UDIleft7, BAYright7,UDIleft8, BAYright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock3_UB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIleft1, BAYright1,UDIleft2, BAYright2,UDIleft3, BAYright3,UDIleft4, BAYright4,UDIleft5, BAYright5,UDIleft6, BAYright6,UDIleft7, BAYright7,UDIleft8, BAYright8)]
+/ bgstim = (reminderUDIleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(UDIright1, BAYleft1,UDIright2, BAYleft2,UDIright3, BAYleft3,UDIright4, BAYleft4,UDIright5, BAYleft5,UDIright6, BAYleft6,UDIright7, BAYleft7,UDIright8, BAYleft8)]
+/ bgstim = (reminderUDIright, reminderBAYleft)
+/ preinstructions = (IATBlock5_UB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, BAYleft1,UDIright2, BAYleft2,UDIright3, BAYleft3,UDIright4, BAYleft4,UDIright5, BAYleft5,UDIright6, BAYleft6,UDIright7, BAYleft7,UDIright8, BAYleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock6_UB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_UB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,UDIright1, BAYleft1,UDIright2, BAYleft2,UDIright3, BAYleft3,UDIright4, BAYleft4,UDIright5, BAYleft5,UDIright6, BAYleft6,UDIright7, BAYleft7,UDIright8, BAYleft8)]
+/ bgstim = (reminderUDIright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+
+<block 1IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKleft1, BAYright1,LOKleft2, BAYright2,LOKleft3, BAYright3,LOKleft4, BAYright4,LOKleft5, BAYright5,LOKleft6, BAYright6,LOKleft7, BAYright7,LOKleft8, BAYright8)]
+/ bgstim = (reminderLOKleft, reminderBAYright)
+/ preinstructions = (IATBlock1_LB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, BAYright1,LOKleft2, BAYright2,LOKleft3, BAYright3,LOKleft4, BAYright4,LOKleft5, BAYright5,LOKleft6, BAYright6,LOKleft7, BAYright7,LOKleft8, BAYright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock3_LB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, BAYright1,LOKleft2, BAYright2,LOKleft3, BAYright3,LOKleft4, BAYright4,LOKleft5, BAYright5,LOKleft6, BAYright6,LOKleft7, BAYright7,LOKleft8, BAYright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKright1, BAYleft1,LOKright2, BAYleft2,LOKright3, BAYleft3,LOKright4, BAYleft4,LOKright5, BAYleft5,LOKright6, BAYleft6,LOKright7, BAYleft7,LOKright8, BAYleft8)]
+/ bgstim = (reminderLOKright, reminderBAYleft)
+/ preinstructions = (IATBlock5_LB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, BAYleft1,LOKright2, BAYleft2,LOKright3, BAYleft3,LOKright4, BAYleft4,LOKright5, BAYleft5,LOKright6, BAYleft6,LOKright7, BAYleft7,LOKright8, BAYleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock6_LB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_LB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, BAYleft1,LOKright2, BAYleft2,LOKright3, BAYleft3,LOKright4, BAYleft4,LOKright5, BAYleft5,LOKright6, BAYleft6,LOKright7, BAYleft7,LOKright8, BAYleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKleft1, ENAright1,LOKleft2, ENAright2,LOKleft3, ENAright3,LOKleft4, ENAright4,LOKleft5, ENAright5,LOKleft6, ENAright6,LOKleft7, ENAright7,LOKleft8, ENAright8)]
+/ bgstim = (reminderLOKleft, reminderENAright)
+/ preinstructions = (IATBlock1_LE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, ENAright1,LOKleft2, ENAright2,LOKleft3, ENAright3,LOKleft4, ENAright4,LOKleft5, ENAright5,LOKleft6, ENAright6,LOKleft7, ENAright7,LOKleft8, ENAright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock3_LE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, ENAright1,LOKleft2, ENAright2,LOKleft3, ENAright3,LOKleft4, ENAright4,LOKleft5, ENAright5,LOKleft6, ENAright6,LOKleft7, ENAright7,LOKleft8, ENAright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKright1, ENAleft1,LOKright2, ENAleft2,LOKright3, ENAleft3,LOKright4, ENAleft4,LOKright5, ENAleft5,LOKright6, ENAleft6,LOKright7, ENAleft7,LOKright8, ENAleft8)]
+/ bgstim = (reminderLOKright, reminderENAleft)
+/ preinstructions = (IATBlock5_LE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, ENAleft1,LOKright2, ENAleft2,LOKright3, ENAleft3,LOKright4, ENAleft4,LOKright5, ENAleft5,LOKright6, ENAleft6,LOKright7, ENAleft7,LOKright8, ENAleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock6_LE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_LE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, ENAleft1,LOKright2, ENAleft2,LOKright3, ENAleft3,LOKright4, ENAleft4,LOKright5, ENAleft5,LOKright6, ENAleft6,LOKright7, ENAleft7,LOKright8, ENAleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKleft1, UDIright1,LOKleft2, UDIright2,LOKleft3, UDIright3,LOKleft4, UDIright4,LOKleft5, UDIright5,LOKleft6, UDIright6,LOKleft7, UDIright7,LOKleft8, UDIright8)]
+/ bgstim = (reminderLOKleft, reminderUDIright)
+/ preinstructions = (IATBlock1_LU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, UDIright1,LOKleft2, UDIright2,LOKleft3, UDIright3,LOKleft4, UDIright4,LOKleft5, UDIright5,LOKleft6, UDIright6,LOKleft7, UDIright7,LOKleft8, UDIright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock3_LU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKleft1, UDIright1,LOKleft2, UDIright2,LOKleft3, UDIright3,LOKleft4, UDIright4,LOKleft5, UDIright5,LOKleft6, UDIright6,LOKleft7, UDIright7,LOKleft8, UDIright8)]
+/ bgstim = (reminderLOKleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(LOKright1, UDIleft1,LOKright2, UDIleft2,LOKright3, UDIleft3,LOKright4, UDIleft4,LOKright5, UDIleft5,LOKright6, UDIleft6,LOKright7, UDIleft7,LOKright8, UDIleft8)]
+/ bgstim = (reminderLOKright, reminderUDIleft)
+/ preinstructions = (IATBlock5_LU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, UDIleft1,LOKright2, UDIleft2,LOKright3, UDIleft3,LOKright4, UDIleft4,LOKright5, UDIleft5,LOKright6, UDIleft6,LOKright7, UDIleft7,LOKright8, UDIleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock6_LU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_LU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,LOKright1, UDIleft1,LOKright2, UDIleft2,LOKright3, UDIleft3,LOKright4, UDIleft4,LOKright5, UDIleft5,LOKright6, UDIleft6,LOKright7, UDIleft7,LOKright8, UDIleft8)]
+/ bgstim = (reminderLOKright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+
+<block 1IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYleft1, ENAright1,BAYleft2, ENAright2,BAYleft3, ENAright3,BAYleft4, ENAright4,BAYleft5, ENAright5,BAYleft6, ENAright6,BAYleft7, ENAright7,BAYleft8, ENAright8)]
+/ bgstim = (reminderBAYleft, reminderENAright)
+/ preinstructions = (IATBlock1_BE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, ENAright1,BAYleft2, ENAright2,BAYleft3, ENAright3,BAYleft4, ENAright4,BAYleft5, ENAright5,BAYleft6, ENAright6,BAYleft7, ENAright7,BAYleft8, ENAright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock3_BE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, ENAright1,BAYleft2, ENAright2,BAYleft3, ENAright3,BAYleft4, ENAright4,BAYleft5, ENAright5,BAYleft6, ENAright6,BAYleft7, ENAright7,BAYleft8, ENAright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderENAright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYright1, ENAleft1,BAYright2, ENAleft2,BAYright3, ENAleft3,BAYright4, ENAleft4,BAYright5, ENAleft5,BAYright6, ENAleft6,BAYright7, ENAleft7,BAYright8, ENAleft8)]
+/ bgstim = (reminderBAYright, reminderENAleft)
+/ preinstructions = (IATBlock5_BE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, ENAleft1,BAYright2, ENAleft2,BAYright3, ENAleft3,BAYright4, ENAleft4,BAYright5, ENAleft5,BAYright6, ENAleft6,BAYright7, ENAleft7,BAYright8, ENAleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock6_BE)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_BE>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, ENAleft1,BAYright2, ENAleft2,BAYright3, ENAleft3,BAYright4, ENAleft4,BAYright5, ENAleft5,BAYright6, ENAleft6,BAYright7, ENAleft7,BAYright8, ENAleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderENAleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYleft1, UDIright1,BAYleft2, UDIright2,BAYleft3, UDIright3,BAYleft4, UDIright4,BAYleft5, UDIright5,BAYleft6, UDIright6,BAYleft7, UDIright7,BAYleft8, UDIright8)]
+/ bgstim = (reminderBAYleft, reminderUDIright)
+/ preinstructions = (IATBlock1_BU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, UDIright1,BAYleft2, UDIright2,BAYleft3, UDIright3,BAYleft4, UDIright4,BAYleft5, UDIright5,BAYleft6, UDIright6,BAYleft7, UDIright7,BAYleft8, UDIright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock3_BU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, UDIright1,BAYleft2, UDIright2,BAYleft3, UDIright3,BAYleft4, UDIright4,BAYleft5, UDIright5,BAYleft6, UDIright6,BAYleft7, UDIright7,BAYleft8, UDIright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYright1, UDIleft1,BAYright2, UDIleft2,BAYright3, UDIleft3,BAYright4, UDIleft4,BAYright5, UDIleft5,BAYright6, UDIleft6,BAYright7, UDIleft7,BAYright8, UDIleft8)]
+/ bgstim = (reminderBAYright, reminderUDIleft)
+/ preinstructions = (IATBlock5_BU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, UDIleft1,BAYright2, UDIleft2,BAYright3, UDIleft3,BAYright4, UDIleft4,BAYright5, UDIleft5,BAYright6, UDIleft6,BAYright7, UDIleft7,BAYright8, UDIleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock6_BU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_BU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, UDIleft1,BAYright2, UDIleft2,BAYright3, UDIleft3,BAYright4, UDIleft4,BAYright5, UDIleft5,BAYright6, UDIleft6,BAYright7, UDIleft7,BAYright8, UDIleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYleft1, LOKright1,BAYleft2, LOKright2,BAYleft3, LOKright3,BAYleft4, LOKright4,BAYleft5, LOKright5,BAYleft6, LOKright6,BAYleft7, LOKright7,BAYleft8, LOKright8)]
+/ bgstim = (reminderBAYleft, reminderLOKright)
+/ preinstructions = (IATBlock1_BL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, LOKright1,BAYleft2, LOKright2,BAYleft3, LOKright3,BAYleft4, LOKright4,BAYleft5, LOKright5,BAYleft6, LOKright6,BAYleft7, LOKright7,BAYleft8, LOKright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock3_BL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYleft1, LOKright1,BAYleft2, LOKright2,BAYleft3, LOKright3,BAYleft4, LOKright4,BAYleft5, LOKright5,BAYleft6, LOKright6,BAYleft7, LOKright7,BAYleft8, LOKright8)]
+/ bgstim = (reminderBAYleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(BAYright1, LOKleft1,BAYright2, LOKleft2,BAYright3, LOKleft3,BAYright4, LOKleft4,BAYright5, LOKleft5,BAYright6, LOKleft6,BAYright7, LOKleft7,BAYright8, LOKleft8)]
+/ bgstim = (reminderBAYright, reminderLOKleft)
+/ preinstructions = (IATBlock5_BL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, LOKleft1,BAYright2, LOKleft2,BAYright3, LOKleft3,BAYright4, LOKleft4,BAYright5, LOKleft5,BAYright6, LOKleft6,BAYright7, LOKleft7,BAYright8, LOKleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock6_BL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_BL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,BAYright1, LOKleft1,BAYright2, LOKleft2,BAYright3, LOKleft3,BAYright4, LOKleft4,BAYright5, LOKleft5,BAYright6, LOKleft6,BAYright7, LOKleft7,BAYright8, LOKleft8)]
+/ bgstim = (reminderBAYright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+
+<block 1IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAleft1, UDIright1,ENAleft2, UDIright2,ENAleft3, UDIright3,ENAleft4, UDIright4,ENAleft5, UDIright5,ENAleft6, UDIright6,ENAleft7, UDIright7,ENAleft8, UDIright8)]
+/ bgstim = (reminderENAleft, reminderUDIright)
+/ preinstructions = (IATBlock1_EU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, UDIright1,ENAleft2, UDIright2,ENAleft3, UDIright3,ENAleft4, UDIright4,ENAleft5, UDIright5,ENAleft6, UDIright6,ENAleft7, UDIright7,ENAleft8, UDIright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock3_EU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, UDIright1,ENAleft2, UDIright2,ENAleft3, UDIright3,ENAleft4, UDIright4,ENAleft5, UDIright5,ENAleft6, UDIright6,ENAleft7, UDIright7,ENAleft8, UDIright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderUDIright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAright1, UDIleft1,ENAright2, UDIleft2,ENAright3, UDIleft3,ENAright4, UDIleft4,ENAright5, UDIleft5,ENAright6, UDIleft6,ENAright7, UDIleft7,ENAright8, UDIleft8)]
+/ bgstim = (reminderENAright, reminderUDIleft)
+/ preinstructions = (IATBlock5_EU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, UDIleft1,ENAright2, UDIleft2,ENAright3, UDIleft3,ENAright4, UDIleft4,ENAright5, UDIleft5,ENAright6, UDIleft6,ENAright7, UDIleft7,ENAright8, UDIleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock6_EU)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_EU>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, UDIleft1,ENAright2, UDIleft2,ENAright3, UDIleft3,ENAright4, UDIleft4,ENAright5, UDIleft5,ENAright6, UDIleft6,ENAright7, UDIleft7,ENAright8, UDIleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderUDIleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAleft1, BAYright1,ENAleft2, BAYright2,ENAleft3, BAYright3,ENAleft4, BAYright4,ENAleft5, BAYright5,ENAleft6, BAYright6,ENAleft7, BAYright7,ENAleft8, BAYright8)]
+/ bgstim = (reminderENAleft, reminderBAYright)
+/ preinstructions = (IATBlock1_EB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, BAYright1,ENAleft2, BAYright2,ENAleft3, BAYright3,ENAleft4, BAYright4,ENAleft5, BAYright5,ENAleft6, BAYright6,ENAleft7, BAYright7,ENAleft8, BAYright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock3_EB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, BAYright1,ENAleft2, BAYright2,ENAleft3, BAYright3,ENAleft4, BAYright4,ENAleft5, BAYright5,ENAleft6, BAYright6,ENAleft7, BAYright7,ENAleft8, BAYright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderBAYright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAright1, BAYleft1,ENAright2, BAYleft2,ENAright3, BAYleft3,ENAright4, BAYleft4,ENAright5, BAYleft5,ENAright6, BAYleft6,ENAright7, BAYleft7,ENAright8, BAYleft8)]
+/ bgstim = (reminderENAright, reminderBAYleft)
+/ preinstructions = (IATBlock5_EB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, BAYleft1,ENAright2, BAYleft2,ENAright3, BAYleft3,ENAright4, BAYleft4,ENAright5, BAYleft5,ENAright6, BAYleft6,ENAright7, BAYleft7,ENAright8, BAYleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock6_EB)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_EB>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, BAYleft1,ENAright2, BAYleft2,ENAright3, BAYleft3,ENAright4, BAYleft4,ENAright5, BAYleft5,ENAright6, BAYleft6,ENAright7, BAYleft7,ENAright8, BAYleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderBAYleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 1IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAleft1, LOKright1,ENAleft2, LOKright2,ENAleft3, LOKright3,ENAleft4, LOKright4,ENAleft5, LOKright5,ENAleft6, LOKright6,ENAleft7, LOKright7,ENAleft8, LOKright8)]
+/ bgstim = (reminderENAleft, reminderLOKright)
+/ preinstructions = (IATBlock1_EL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 3IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, LOKright1,ENAleft2, LOKright2,ENAleft3, LOKright3,ENAleft4, LOKright4,ENAleft5, LOKright5,ENAleft6, LOKright6,ENAleft7, LOKright7,ENAleft8, LOKright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock3_EL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 4IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAleft1, LOKright1,ENAleft2, LOKright2,ENAleft3, LOKright3,ENAleft4, LOKright4,ENAleft5, LOKright5,ENAleft6, LOKright6,ENAleft7, LOKright7,ENAleft8, LOKright8)]
+/ bgstim = (reminderENAleft, reminderNEGleft,reminderLOKright,reminderPOSright)
+/ preinstructions = (IATBlock4_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 5IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-17 = noreplace(ENAright1, LOKleft1,ENAright2, LOKleft2,ENAright3, LOKleft3,ENAright4, LOKleft4,ENAright5, LOKleft5,ENAright6, LOKleft6,ENAright7, LOKleft7,ENAright8, LOKleft8)]
+/ bgstim = (reminderENAright, reminderLOKleft)
+/ preinstructions = (IATBlock5_EL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 6IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, LOKleft1,ENAright2, LOKleft2,ENAright3, LOKleft3,ENAright4, LOKleft4,ENAright5, LOKleft5,ENAright6, LOKleft6,ENAright7, LOKleft7,ENAright8, LOKleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock6_EL)
+/ errormessage = (errormessage, 200)
+</block>
+
+<block 7IAT_EL>
+/ screencolor = (0, 0, 0)
+/ trials = [1=wait;2-33 = noreplace(positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,positive, negative,ENAright1, LOKleft1,ENAright2, LOKleft2,ENAright3, LOKleft3,ENAright4, LOKleft4,ENAright5, LOKleft5,ENAright6, LOKleft6,ENAright7, LOKleft7,ENAright8, LOKleft8)]
+/ bgstim = (reminderENAright, reminderNEGleft,reminderLOKleft,reminderPOSright)
+/ preinstructions = (IATBlock7_)
+/ errormessage = (errormessage, 200)
+</block>
+
+<survey explicit>
+/ pages = [1=explicitINTRO1;2-5=random(qBP,qUP,qEP,qLP)]
+/ showpagenumbers = false
+/ screencolor = grey
+</survey>
+
+<surveypage explicitINTRO1>
+/ caption = "Thank you very much for completing that task!
+
+Next, please answer a couple of questions about the nonwords. "
+</surveypage>
+
+<block no>
+/ trials = [1=wait]
+</block>
+
+<surveypage qBP>
+/ questions = [1=questionBAYRAMPleasant]
+</surveypage>
+
+<slider questionBAYRAMPleasant>
+/ caption = "How pleasant or unpleasant do you find the word BAYRAM?"
+/ labels = ("Extremely unpleasant", "", "", "","Neither unpleasant nor pleasant", "","","","Extremely pleasant")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+<surveypage qUP>
+/ questions = [1=questionUDIBNONPleasant]
+</surveypage>
+
+<slider questionUDIBNONPleasant>
+/ caption = "How pleasant or unpleasant do you find the word UDIBNON?"
+/ labels = ("Extremely unpleasant", "", "", "","Neither unpleasant nor pleasant", "","","","Extremely pleasant")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+<surveypage qEP>
+/ questions = [1=questionENANWALPleasant]
+</surveypage>
+
+<slider questionENANWALPleasant>
+/ caption = "How pleasant or unpleasant do you find the word ENANWAL?"
+/ labels = ("Extremely unpleasant", "", "", "","Neither unpleasant nor pleasant", "","","","Extremely pleasant")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+<surveypage qLP>
+/ questions = [1=questionLOKANTAPleasant]
+</surveypage>
+
+<slider questionLOKANTAPleasant>
+/ caption = "How pleasant or unpleasant do you find the word LOKANTA?"
+/ labels = ("Extremely unpleasant", "", "", "","Neither unpleasant nor pleasant", "","","","Extremely pleasant")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+<block questionsIntro>
+/screencolor = (0,0,0)
+/preinstructions = (questionsIntro)
+</block>
+
+<survey questions>
+/ pages = [1-4=noreplace(qB, qU,qE,qL); 5=qUPDOWN]
+/ showpagenumbers = false
+/ screencolor = grey
+</survey>
+
+<surveypage qB>
+/ questions = [1=question1BAY; 2=question2BAY]
+</surveypage>
+
+<dropdown question1BAY>
+/ caption = "What action did you perform when you saw the word BAYRAM?"
+/ options = ("move the manikin up", "move the manikin down","I don't remember")
+</dropdown>
+
+<dropdown question2BAY>
+/ caption = "Did performing this action result in a movement of the manikin towards or away from the word BAYRAM"
+/ options = ("manikin moved towards BAYRAM", "manikin moved away from BAYRAM","I don't remember/I did not notice")
+</dropdown>
+
+<surveypage qU>
+/ questions = [1=question1UDI; 2=question2UDI]
+</surveypage>
+
+<dropdown question1UDI>
+/ caption = "What action did you perform when you saw the word UDIBNON?"
+/ options = ("move the manikin up", "move the manikin down","I don't remember")
+</dropdown>
+
+<dropdown question2UDI>
+/ caption = "Did performing this action result in a movement of the manikin towards or away from the word UDIBNON"
+/ options = ("manikin moved towards UDIBNON", "manikin moved away from UDIBNON","I don't remember/I did not notice")
+</dropdown>
+
+<surveypage qL>
+/ questions = [1=question1LOK; 2=question2LOK]
+</surveypage>
+
+<dropdown question1LOK>
+/ caption = "What action did you perform when you saw the word LOKANTA?"
+/ options = ("move the manikin up", "move the manikin down","I don't remember")
+</dropdown>
+
+<dropdown question2LOK>
+/ caption = "Did performing this action result in a movement of the manikin towards or away from the word LOKANTA"
+/ options = ("manikin moved towards LOKANTA", "manikin moved away from LOKANTA","I don't remember/I did not notice")
+</dropdown>
+
+<surveypage qE>
+/ questions = [1=question1ENA; 2=question2ENA]
+</surveypage>
+
+<dropdown question1ENA>
+/ caption = "What action did you perform when you saw the word ENANWAL?"
+/ options = ("move the manikin up", "move the manikin down","I don't remember")
+</dropdown>
+
+<dropdown question2ENA>
+/ caption = "Did performing this action result in a movement of the manikin towards or away from the word ENANWAL"
+/ options = ("manikin moved towards ENANWAL", "manikin moved away from ENANWAL","I don't remember/I did not notice")
+</dropdown>
+
+<surveypage qUPDOWN>
+/ questions = [1=questionUP; 2=questionDOWN]
+</surveypage>
+
+<slider questionUP>
+/ caption = "How positive or negative do you find the word UP?"
+/ labels = ("Extremely negative", "", "", "","Neither negative nor positive", "","","","Extremely positive")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+<slider questionDOWN>
+/ caption = "How positive or negative do you find the word DOWN?"
+/ labels = ("Extremely negative", "", "", "","Neither negative nor positive", "","","","Extremely positive")
+/ range = (1, 9)
+/ slidersize = (60%, 5%)
+/ showtooltips = false
+</slider>
+
+*************************************************
+Creating an Expt
+*************************************************
+
+<expt>
+/ preinstructions = (intro)
+/ postinstructions = (end)
+/ blocks = [1=AAIntro; 2=AAblock1;3=pauze; 4=AAblock2; 5=explicitfirst; 6=IATIntro; 7=IATblock1;8=2IAT;8=IATblock3;9=IATblock4;10=IATblock5;11=IATblock6;12=IATblock7; 13=IATIntro2;14=IAT2block1;15=2IAT;16=IAT2block3;17=IAT2block4;18=IAT2block5;19=IAT2block6;20=IAT2block7;21=explicitlast;22=questionsINTRO;23=questions]
+</expt>
+
+<variables>
+/ group = (1 of 96) (AAIntro=AAIntroBE, AAblock1=AA_1, AAblock2=AA_1, explicitfirst=no, IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,explicitlast=explicit)
+/ group = (2 of 96) (AAIntro=AAIntroBL, AAblock1=AA_2, AAblock2=AA_2, explicitfirst=explicit, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=no)
+/ group = (3 of 96) (AAIntro=AAIntroBU, AAblock1=AA_3, AAblock2=AA_3, explicitfirst=no, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=explicit)
+/ group = (4 of 96) (AAIntro=AAIntroBL, AAblock1=AA_4, AAblock2=AA_4, explicitfirst=explicit, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=no)
+/ group = (5 of 96) (AAIntro=AAIntroBU, AAblock1=AA_5, AAblock2=AA_5, explicitfirst=no, IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,explicitlast=explicit)
+/ group = (6 of 96) (AAIntro=AAIntroBE, AAblock1=AA_6, AAblock2=AA_6, explicitfirst=explicit, IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,explicitlast=no)
+/ group = (7 of 96) (AAIntro=AAIntroUE, AAblock1=AA_7, AAblock2=AA_7, explicitfirst=no, IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,explicitlast=explicit)
+/ group = (8 of 96) (AAIntro=AAIntroUL, AAblock1=AA_8, AAblock2=AA_8, explicitfirst=explicit, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=no)
+/ group = (9 of 96) (AAIntro=AAIntroBU, AAblock1=AA_9, AAblock2=AA_9, explicitfirst=no, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,explicitlast=explicit)
+/ group = (10 of 96) (AAIntro=AAIntroUL, AAblock1=AA_10, AAblock2=AA_10, explicitfirst=explicit, IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,explicitlast=no)
+/ group = (11 of 96) (AAIntro=AAIntroBU, AAblock1=AA_11, AAblock2=AA_11, explicitfirst=no, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=explicit)
+/ group = (12 of 96) (AAIntro=AAIntroUE, AAblock1=AA_12, AAblock2=AA_12, explicitfirst=explicit, IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,explicitlast=no)
+/ group = (13 of 96) (AAIntro=AAIntroUE, AAblock1=AA_13, AAblock2=AA_13, explicitfirst=no, IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,explicitlast=explicit)
+/ group = (14 of 96) (AAIntro=AAIntroLE, AAblock1=AA_14, AAblock2=AA_14, explicitfirst=explicit, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=no)
+/ group = (15 of 96) (AAIntro=AAIntroBE, AAblock1=AA_15, AAblock2=AA_15, explicitfirst=no, IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=explicit)
+/ group = (16 of 96) (AAIntro=AAIntroLE, AAblock1=AA_16, AAblock2=AA_16, explicitfirst=explicit, IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,explicitlast=no)
+/ group = (17 of 96) (AAIntro=AAIntroBE, AAblock1=AA_17, AAblock2=AA_17, explicitfirst=no, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=explicit)
+/ group = (18 of 96) (AAIntro=AAIntroUE, AAblock1=AA_18, AAblock2=AA_18, explicitfirst=explicit, IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,explicitlast=no)
+/ group = (19 of 96) (AAIntro=AAIntroUL, AAblock1=AA_19, AAblock2=AA_19, explicitfirst=no, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,explicitlast=explicit)
+/ group = (20 of 96) (AAIntro=AAIntroLE, AAblock1=AA_20, AAblock2=AA_20, explicitfirst=explicit, IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=no)
+/ group = (21 of 96) (AAIntro=AAIntroBL, AAblock1=AA_21, AAblock2=AA_21, explicitfirst=no, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=explicit)
+/ group = (22 of 96) (AAIntro=AAIntroLE, AAblock1=AA_22, AAblock2=AA_22, explicitfirst=explicit, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=no)
+/ group = (23 of 96) (AAIntro=AAIntroBL, AAblock1=AA_23, AAblock2=AA_23, explicitfirst=no, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=explicit)
+/ group = (24 of 96) (AAIntro=AAIntroUL, AAblock1=AA_24, AAblock2=AA_24, explicitfirst=explicit, IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,explicitlast=no)
+/ group = (25 of 96) (AAIntro=AAIntroBE, AAblock1=AA_1, AAblock2=AA_1, explicitfirst=explicit, IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,explicitlast=no)
+/ group = (26 of 96) (AAIntro=AAIntroBL, AAblock1=AA_2, AAblock2=AA_2, explicitfirst=no, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=explicit)
+/ group = (27 of 96) (AAIntro=AAIntroBU, AAblock1=AA_3, AAblock2=AA_3, explicitfirst=explicit, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=no)
+/ group = (28 of 96) (AAIntro=AAIntroBL, AAblock1=AA_4, AAblock2=AA_4, explicitfirst=no, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=explicit)
+/ group = (29 of 96) (AAIntro=AAIntroBU, AAblock1=AA_5, AAblock2=AA_5, explicitfirst=explicit, IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,explicitlast=no)
+/ group = (30 of 96) (AAIntro=AAIntroBE, AAblock1=AA_6, AAblock2=AA_6, explicitfirst=no, IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,explicitlast=explicit)
+/ group = (31 of 96) (AAIntro=AAIntroUE, AAblock1=AA_7, AAblock2=AA_7, explicitfirst=explicit, IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,explicitlast=no)
+/ group = (32 of 96) (AAIntro=AAIntroUL, AAblock1=AA_8, AAblock2=AA_8, explicitfirst=no, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=explicit)
+/ group = (33 of 96) (AAIntro=AAIntroBU, AAblock1=AA_9, AAblock2=AA_9, explicitfirst=explicit, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,explicitlast=no)
+/ group = (34 of 96) (AAIntro=AAIntroUL, AAblock1=AA_10, AAblock2=AA_10, explicitfirst=no, IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,explicitlast=explicit)
+/ group = (35 of 96) (AAIntro=AAIntroBU, AAblock1=AA_11, AAblock2=AA_11, explicitfirst=explicit, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,explicitlast=no)
+/ group = (36 of 96) (AAIntro=AAIntroUE, AAblock1=AA_12, AAblock2=AA_12, explicitfirst=no, IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,explicitlast=explicit)
+/ group = (37 of 96) (AAIntro=AAIntroUE, AAblock1=AA_13, AAblock2=AA_13, explicitfirst=explicit, IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,explicitlast=no)
+/ group = (38 of 96) (AAIntro=AAIntroLE, AAblock1=AA_14, AAblock2=AA_14, explicitfirst=no, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=explicit)
+/ group = (39 of 96) (AAIntro=AAIntroBE, AAblock1=AA_15, AAblock2=AA_15, explicitfirst=explicit, IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=no)
+/ group = (40 of 96) (AAIntro=AAIntroLE, AAblock1=AA_16, AAblock2=AA_16, explicitfirst=no, IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,explicitlast=explicit)
+/ group = (41 of 96) (AAIntro=AAIntroBE, AAblock1=AA_17, AAblock2=AA_17, explicitfirst=explicit, IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=no)
+/ group = (42 of 96) (AAIntro=AAIntroUE, AAblock1=AA_18, AAblock2=AA_18, explicitfirst=no, IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,explicitlast=explicit)
+/ group = (43 of 96) (AAIntro=AAIntroUL, AAblock1=AA_19, AAblock2=AA_19, explicitfirst=explicit, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,explicitlast=no)
+/ group = (44 of 96) (AAIntro=AAIntroLE, AAblock1=AA_20, AAblock2=AA_20, explicitfirst=no, IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=explicit)
+/ group = (45 of 96) (AAIntro=AAIntroBL, AAblock1=AA_21, AAblock2=AA_21, explicitfirst=explicit, IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,explicitlast=no)
+/ group = (46 of 96) (AAIntro=AAIntroLE, AAblock1=AA_22, AAblock2=AA_22, explicitfirst=no, IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,explicitlast=explicit)
+/ group = (47 of 96) (AAIntro=AAIntroBL, AAblock1=AA_23, AAblock2=AA_23, explicitfirst=explicit, IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,explicitlast=no)
+/ group = (48 of 96) (AAIntro=AAIntroUL, AAblock1=AA_24, AAblock2=AA_24, explicitfirst=no, IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,explicitlast=explicit)
+/ group = (49 of 96) (AAIntro=AAIntroBE, AAblock1=AA_1, AAblock2=AA_1, explicitfirst=no, IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,explicitlast=explicit)
+/ group = (50 of 96) (AAIntro=AAIntroBL, AAblock1=AA_2, AAblock2=AA_2, explicitfirst=explicit, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=no)
+/ group = (51 of 96) (AAIntro=AAIntroBU, AAblock1=AA_3, AAblock2=AA_3, explicitfirst=no, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=explicit)
+/ group = (52 of 96) (AAIntro=AAIntroBL, AAblock1=AA_4, AAblock2=AA_4, explicitfirst=explicit, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=no)
+/ group = (53 of 96) (AAIntro=AAIntroBU, AAblock1=AA_5, AAblock2=AA_5, explicitfirst=no, IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,explicitlast=explicit)
+/ group = (54 of 96) (AAIntro=AAIntroBE, AAblock1=AA_6, AAblock2=AA_6, explicitfirst=explicit, IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,explicitlast=no)
+/ group = (55 of 96) (AAIntro=AAIntroUE, AAblock1=AA_7, AAblock2=AA_7, explicitfirst=no, IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,explicitlast=explicit)
+/ group = (56 of 96) (AAIntro=AAIntroUL, AAblock1=AA_8, AAblock2=AA_8, explicitfirst=explicit, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=no)
+/ group = (57 of 96) (AAIntro=AAIntroBU, AAblock1=AA_9, AAblock2=AA_9, explicitfirst=no, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,explicitlast=explicit)
+/ group = (58 of 96) (AAIntro=AAIntroUL, AAblock1=AA_10, AAblock2=AA_10, explicitfirst=explicit, IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,explicitlast=no)
+/ group = (59 of 96) (AAIntro=AAIntroBU, AAblock1=AA_11, AAblock2=AA_11, explicitfirst=no, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=explicit)
+/ group = (60 of 96) (AAIntro=AAIntroUE, AAblock1=AA_12, AAblock2=AA_12, explicitfirst=explicit, IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,explicitlast=no)
+/ group = (61 of 96) (AAIntro=AAIntroUE, AAblock1=AA_13, AAblock2=AA_13, explicitfirst=no, IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,explicitlast=explicit)
+/ group = (62 of 96) (AAIntro=AAIntroLE, AAblock1=AA_14, AAblock2=AA_14, explicitfirst=explicit, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=no)
+/ group = (63 of 96) (AAIntro=AAIntroBE, AAblock1=AA_15, AAblock2=AA_15, explicitfirst=no, IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=explicit)
+/ group = (64 of 96) (AAIntro=AAIntroLE, AAblock1=AA_16, AAblock2=AA_16, explicitfirst=explicit, IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,explicitlast=no)
+/ group = (65 of 96) (AAIntro=AAIntroBE, AAblock1=AA_17, AAblock2=AA_17, explicitfirst=no, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=explicit)
+/ group = (66 of 96) (AAIntro=AAIntroUE, AAblock1=AA_18, AAblock2=AA_18, explicitfirst=explicit, IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,explicitlast=no)
+/ group = (67 of 96) (AAIntro=AAIntroUL, AAblock1=AA_19, AAblock2=AA_19, explicitfirst=no, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,explicitlast=explicit)
+/ group = (68 of 96) (AAIntro=AAIntroLE, AAblock1=AA_20, AAblock2=AA_20, explicitfirst=explicit, IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=no)
+/ group = (69 of 96) (AAIntro=AAIntroBL, AAblock1=AA_21, AAblock2=AA_21, explicitfirst=no, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=explicit)
+/ group = (70 of 96) (AAIntro=AAIntroLE, AAblock1=AA_22, AAblock2=AA_22, explicitfirst=explicit, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=no)
+/ group = (71 of 96) (AAIntro=AAIntroBL, AAblock1=AA_23, AAblock2=AA_23, explicitfirst=no, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=explicit)
+/ group = (72 of 96) (AAIntro=AAIntroUL, AAblock1=AA_24, AAblock2=AA_24, explicitfirst=explicit, IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,explicitlast=no)
+/ group = (73 of 96) (AAIntro=AAIntroBE, AAblock1=AA_1, AAblock2=AA_1, explicitfirst=explicit, IAT2block1=1IAT_EU, IAT2block3=3IAT_EU, IAT2block4=4IAT_EU,IAT2block5=5IAT_EU,IAT2block6=6IAT_EU,IAT2block7=7IAT_EU,IATblock1=1IAT_BL, IATblock3=3IAT_BL, IATblock4=4IAT_BL,IATblock5=5IAT_BL,IATblock6=6IAT_BL,IATblock7=7IAT_BL,explicitlast=no)
+/ group = (74 of 96) (AAIntro=AAIntroBL, AAblock1=AA_2, AAblock2=AA_2, explicitfirst=no, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=explicit)
+/ group = (75 of 96) (AAIntro=AAIntroBU, AAblock1=AA_3, AAblock2=AA_3, explicitfirst=explicit, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=no)
+/ group = (76 of 96) (AAIntro=AAIntroBL, AAblock1=AA_4, AAblock2=AA_4, explicitfirst=no, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=explicit)
+/ group = (77 of 96) (AAIntro=AAIntroBU, AAblock1=AA_5, AAblock2=AA_5, explicitfirst=explicit, IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,IATblock1=1IAT_BE, IATblock3=3IAT_BE, IATblock4=4IAT_BE,IATblock5=5IAT_BE,IATblock6=6IAT_BE,IATblock7=7IAT_BE,explicitlast=no)
+/ group = (78 of 96) (AAIntro=AAIntroBE, AAblock1=AA_6, AAblock2=AA_6, explicitfirst=no, IAT2block1=1IAT_BU, IAT2block3=3IAT_BU, IAT2block4=4IAT_BU,IAT2block5=5IAT_BU,IAT2block6=6IAT_BU,IAT2block7=7IAT_BU,IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,explicitlast=explicit)
+/ group = (79 of 96) (AAIntro=AAIntroUE, AAblock1=AA_7, AAblock2=AA_7, explicitfirst=explicit, IAT2block1=1IAT_UL, IAT2block3=3IAT_UL, IAT2block4=4IAT_UL,IAT2block5=5IAT_UL,IAT2block6=6IAT_UL,IAT2block7=7IAT_UL,IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,explicitlast=no)
+/ group = (80 of 96) (AAIntro=AAIntroUL, AAblock1=AA_8, AAblock2=AA_8, explicitfirst=no, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=explicit)
+/ group = (81 of 96) (AAIntro=AAIntroBU, AAblock1=AA_9, AAblock2=AA_9, explicitfirst=explicit, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,explicitlast=no)
+/ group = (82 of 96) (AAIntro=AAIntroUL, AAblock1=AA_10, AAblock2=AA_10, explicitfirst=no, IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,IATblock1=1IAT_LE, IATblock3=3IAT_LE, IATblock4=4IAT_LE,IATblock5=5IAT_LE,IATblock6=6IAT_LE,IATblock7=7IAT_LE,explicitlast=explicit)
+/ group = (83 of 96) (AAIntro=AAIntroBU, AAblock1=AA_11, AAblock2=AA_11, explicitfirst=explicit, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_UE, IATblock3=3IAT_UE, IATblock4=4IAT_UE,IATblock5=5IAT_UE,IATblock6=6IAT_UE,IATblock7=7IAT_UE,explicitlast=no)
+/ group = (84 of 96) (AAIntro=AAIntroUE, AAblock1=AA_12, AAblock2=AA_12, explicitfirst=no, IAT2block1=1IAT_UB, IAT2block3=3IAT_UB, IAT2block4=4IAT_UB,IAT2block5=5IAT_UB,IAT2block6=6IAT_UB,IAT2block7=7IAT_UB,IATblock1=1IAT_EL, IATblock3=3IAT_EL, IATblock4=4IAT_EL,IATblock5=5IAT_EL,IATblock6=6IAT_EL,IATblock7=7IAT_EL,explicitlast=explicit)
+/ group = (85 of 96) (AAIntro=AAIntroUE, AAblock1=AA_13, AAblock2=AA_13, explicitfirst=explicit, IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,explicitlast=no)
+/ group = (86 of 96) (AAIntro=AAIntroLE, AAblock1=AA_14, AAblock2=AA_14, explicitfirst=no, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=explicit)
+/ group = (87 of 96) (AAIntro=AAIntroBE, AAblock1=AA_15, AAblock2=AA_15, explicitfirst=explicit, IAT2block1=1IAT_EL, IAT2block3=3IAT_EL, IAT2block4=4IAT_EL,IAT2block5=5IAT_EL,IAT2block6=6IAT_EL,IAT2block7=7IAT_EL,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=no)
+/ group = (88 of 96) (AAIntro=AAIntroLE, AAblock1=AA_16, AAblock2=AA_16, explicitfirst=no, IAT2block1=1IAT_LU, IAT2block3=3IAT_LU, IAT2block4=4IAT_LU,IAT2block5=5IAT_LU,IAT2block6=6IAT_LU,IAT2block7=7IAT_LU,IATblock1=1IAT_EB, IATblock3=3IAT_EB, IATblock4=4IAT_EB,IATblock5=5IAT_EB,IATblock6=6IAT_EB,IATblock7=7IAT_EB,explicitlast=explicit)
+/ group = (89 of 96) (AAIntro=AAIntroBE, AAblock1=AA_17, AAblock2=AA_17, explicitfirst=explicit, IAT2block1=1IAT_BL, IAT2block3=3IAT_BL, IAT2block4=4IAT_BL,IAT2block5=5IAT_BL,IAT2block6=6IAT_BL,IAT2block7=7IAT_BL,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=no)
+/ group = (90 of 96) (AAIntro=AAIntroUE, AAblock1=AA_18, AAblock2=AA_18, explicitfirst=no, IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,IATblock1=1IAT_UL, IATblock3=3IAT_UL, IATblock4=4IAT_UL,IATblock5=5IAT_UL,IATblock6=6IAT_UL,IATblock7=7IAT_UL,explicitlast=explicit)
+/ group = (91 of 96) (AAIntro=AAIntroUL, AAblock1=AA_19, AAblock2=AA_19, explicitfirst=explicit, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_UB, IATblock3=3IAT_UB, IATblock4=4IAT_UB,IATblock5=5IAT_UB,IATblock6=6IAT_UB,IATblock7=7IAT_UB,explicitlast=no)
+/ group = (92 of 96) (AAIntro=AAIntroLE, AAblock1=AA_20, AAblock2=AA_20, explicitfirst=no, IAT2block1=1IAT_EB, IAT2block3=3IAT_EB, IAT2block4=4IAT_EB,IAT2block5=5IAT_EB,IAT2block6=6IAT_EB,IAT2block7=7IAT_EB,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=explicit)
+/ group = (93 of 96) (AAIntro=AAIntroBL, AAblock1=AA_21, AAblock2=AA_21, explicitfirst=explicit, IAT2block1=1IAT_LE, IAT2block3=3IAT_LE, IAT2block4=4IAT_LE,IAT2block5=5IAT_LE,IAT2block6=6IAT_LE,IAT2block7=7IAT_LE,IATblock1=1IAT_BU, IATblock3=3IAT_BU, IATblock4=4IAT_BU,IATblock5=5IAT_BU,IATblock6=6IAT_BU,IATblock7=7IAT_BU,explicitlast=no)
+/ group = (94 of 96) (AAIntro=AAIntroLE, AAblock1=AA_22, AAblock2=AA_22, explicitfirst=no, IAT2block1=1IAT_LB, IAT2block3=3IAT_LB, IAT2block4=4IAT_LB,IAT2block5=5IAT_LB,IAT2block6=6IAT_LB,IAT2block7=7IAT_LB,IATblock1=1IAT_EU, IATblock3=3IAT_EU, IATblock4=4IAT_EU,IATblock5=5IAT_EU,IATblock6=6IAT_EU,IATblock7=7IAT_EU,explicitlast=explicit)
+/ group = (95 of 96) (AAIntro=AAIntroBL, AAblock1=AA_23, AAblock2=AA_23, explicitfirst=explicit, IAT2block1=1IAT_BE, IAT2block3=3IAT_BE, IAT2block4=4IAT_BE,IAT2block5=5IAT_BE,IAT2block6=6IAT_BE,IAT2block7=7IAT_BE,IATblock1=1IAT_LU, IATblock3=3IAT_LU, IATblock4=4IAT_LU,IATblock5=5IAT_LU,IATblock6=6IAT_LU,IATblock7=7IAT_LU,explicitlast=no)
+/ group = (96 of 96) (AAIntro=AAIntroUL, AAblock1=AA_24, AAblock2=AA_24, explicitfirst=no, IAT2block1=1IAT_UE, IAT2block3=3IAT_UE, IAT2block4=4IAT_UE,IAT2block5=5IAT_UE,IAT2block6=6IAT_UE,IAT2block7=7IAT_UE,IATblock1=1IAT_LB, IATblock3=3IAT_LB, IATblock4=4IAT_LB,IATblock5=5IAT_LB,IATblock6=6IAT_LB,IATblock7=7IAT_LB,explicitlast=explicit)
+</variables>
+
+<defaults>
+/ screencolor = (0,0, 0)
+/ fontstyle = ("Courier New", 14pt)
+</defaults>
+
+<data>
+/ format = tab
+</data>
